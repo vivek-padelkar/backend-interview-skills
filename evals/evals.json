@@ -1,0 +1,23 @@
+{
+  "skill_name": "backend-interview",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "/backend-interview — I'm a mid-level Node.js dev with 3 years of experience. I want to practice system design questions at hard difficulty, Amazon company style.",
+      "expected_output": "Skill collects all 4 parameters (Mid level, System Design topic, Hard difficulty, Amazon style), generates 5-8 scenario-based questions one at a time in Amazon STAR format with scale focus, captures user answers, provides immediate feedback after each answer (grade + 2-3 lines of feedback), and produces a full analysis report with score summary, mistakes & corrections, strengths, study plan, and curated learning resources (YouTube, LinkedIn, Instagram, docs).",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "start backend interview — I'm a junior developer with 1 year of experience, want to practice Node.js core fundamentals at easy difficulty, general MANG style.",
+      "expected_output": "Skill collects parameters (Junior level, Node.js Core topic, Easy difficulty, General MANG), generates 5-8 beginner-friendly questions focused on event loop, callbacks, promises, streams, modules. Provides gentle, encouraging feedback after each answer. Final report includes score breakdown, explanations of core concepts, strengths highlighted, study plan with foundational resources (official Node.js docs, beginner YouTube channels, beginner-friendly articles).",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "/backend-interview — Senior engineer here, 8 years experience. Security topic at hard difficulty, Netflix company style please.",
+      "expected_output": "Skill collects parameters (Senior level, Security topic, Hard difficulty, Netflix style), generates 5-8 advanced security questions framed around resilience, failure scenarios, and chaos engineering (OAuth flows, encryption key rotation, zero-trust architecture). Questions include failure and recovery thinking. Feedback emphasizes resilience, operational maturity, and chaos testing. Final report includes deep analysis, identification of failure mode gaps, study plan focused on distributed security and chaos engineering, resources on Netflix patterns and security at scale.",
+      "files": []
+    }
+  ]
+}

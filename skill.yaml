@@ -1,0 +1,96 @@
+name: backend-interview
+version: 1.0.0
+author: Vivek Padelkar
+email: vivek.padelkar@gmail.com
+description: Full Node.js backend engineer mock interview with real-time feedback
+long_description: |
+  Conducts a complete mock backend engineering interview tailored to your experience level, topic focus, company style, and difficulty preference. Features 5-8 scenario-based questions, immediate feedback on each answer, comprehensive analysis report, and curated learning resources.
+
+category: Interview Prep
+tags:
+  - nodejs
+  - backend
+  - interview
+  - mock-interview
+  - mang
+  - system-design
+  - performance
+  - testing
+
+triggers:
+  - "/backend-interview"
+  - "start backend interview"
+  - "mock interview node"
+  - "practice MANG interview"
+  - "backend coding interview"
+  - "interview prep node.js"
+  - "backend engineer interview"
+
+topics:
+  - Node.js Core
+  - Express/Fastify
+  - Databases
+  - System Design
+  - Microservices
+  - Security
+  - Performance
+  - Testing
+
+experience_levels:
+  - Junior (0-2 years)
+  - Mid (3-5 years)
+  - Senior (6-10 years)
+  - Staff (10+ years)
+
+company_styles:
+  - Amazon
+  - Google
+  - Meta
+  - Netflix
+  - General MANG
+
+difficulty_levels:
+  - Easy
+  - Medium
+  - Hard
+
+features:
+  - Dynamic question generation
+  - Real-time feedback with grades
+  - Comprehensive post-session analysis report
+  - Curated learning resources
+  - Trade-off explanations
+  - Best practices guidance
+
+requirements:
+  - Claude Code with AskUserQuestion support
+  - JavaScript/Node.js knowledge (foundational)
+
+license: MIT
+repository: https://github.com/yourusername/backend-interview
+homepage: https://skills.sh/skills/backend-interview
+
+keywords:
+  - backend
+  - nodejs
+  - interview
+  - hiring
+  - mang
+  - system-design
+  - coding
+  - preparation
+  - learning
+  - mock
+  - questions
+  - feedback
+
+support:
+  email: vivek.padelkar@gmail.com
+  documentation: SKILL.md
+
+files:
+  - SKILL.md
+  - README.md
+  - skill.yaml
+  - evals/evals.json
+  - references/
